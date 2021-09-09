@@ -1,0 +1,623 @@
+attack_date,attack_year,attack_type,attack_state,attack_location,activity,number_of_attacks,latitude,longitude,ice_cream,temperature
+07-Aug-2021,2021.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+07-Aug-2021,2021.0,Unprovoked,Florida,"Key Largo, Monroe County",Snorkeling,1,25.0865151,-80.4472802,15,87.21
+02-Aug-2021,2021.0,Unprovoked,Maryland,"Ocean City, Worcester County",Swimming,1,38.3365032,-75.0849058,15,69.19
+30-Jul-2021,2021.0,Provoked,Florida,"Ponce Inlet, Volusia County",Fishing,10,29.0963729,-80.9369983,5,81.61
+27-Jul-2021,2021.0,Unprovoked,North Carolina,Wrightsville Beach,Standing,2,34.2085036,-77.7963709,14,75.29
+27-Jul-2021,2021.0,Unprovoked,Georgia,"Tybee Island, Chatham County",Surfing,2,32.0002152,-80.845666,12,83.7
+26-Jul-2021,2021.0,Unprovoked,New York,"Jones Beach, Nassau County",Swimming,1,40.6106158,-73.4445392,7,69.44
+21-Jul-2021,2021.0,Unprovoked,California,"Capitola Beach, Santa Cruz County",Surfing,1,36.9716173,-121.9516263,15,79.38
+15-Jul-2021,2021.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,64,29.0258191,-80.9269984,15,81.45
+10-Jul-2021,2021.0,Unprovoked,Florida,"Bathtub Beach, Martin County",Playing,1,27.186242,-80.16036,7,81.52
+10-Jul-2021,2021.0,Unprovoked,Florida,"46 miles off Mayport, Duval County",Spearfishing,1,30.3923949,-81.4299586,2,83.98
+04-Jul-2021,2021.0,Unprovoked,Florida,"Ponce Inlet, Volusia County",Standing,10,29.0963729,-80.9369983,5,81.61
+30-Jun-2021,2021.0,Unprovoked,California,"Catalina Island, Orange County",Canoeing,1,33.3878856,-118.4163103,0,72.57
+28-Jun-2021,2021.0,Unprovoked,Florida,"Block Houe Beach, Brevard County",Surfing,1,28.2525727,-80.6031587,0,80.13
+27-Jun-2021,2021.0,Unprovoked,North Carolina,"Ocean Isle, Brunswick County",Swimming,4,33.8877282,-78.4364471,13,75.0
+26-Jun-2021,2021.0,Unprovoked,California,"Gray Whale Beach Cove State Beach, San Mateo County",Swimming,1,37.5645993,-122.5139689,1,66.88
+18-Jun-2021,2021.0,Unprovoked,Florida,"Bethune Beach, Volusia County",Standing,4,28.9491539,-80.83783,4,81.09
+17-Jun-2021,2021.0,Unprovoked,Florida,"Grayton Beach State Park,   Walton County",Swimming,1,30.329817,-86.1650389,15,83.57
+14-Jun-2021,2021.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Standing,64,29.0258191,-80.9269984,15,81.45
+14-Jun-2021,2021.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Standing,64,29.0258191,-80.9269984,15,81.45
+23-May-2021,2021.0,Unprovoked,South Carolina,"Burkes Beach, Hilton Head, Beaufort County",Swimming,2,32.1940526,-80.6976655,15,82.98
+15-May-2021,2021.0,Unprovoked,Hawaii,"Kanaha Beach Park, Maui",Kite Foiling,1,20.8996987,-156.4405938,15,86.0
+06-May-2021,2021.0,Unprovoked,Florida,"Daytona Beach Shores, Volusia County",Wading,1,29.1760933,-80.9828323,15,81.72
+03-May-2021,2021.0,Unprovoked,Hawaii,"Marine Corps Base, Oahu",Surfing,1,21.4433045,-157.7489524,15,84.63
+30-Apr-2021,2021.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+29-Apr-2021,2021.0,Unprovoked,Florida,"Vero Beach, Indian River County",Boggie boarding,3,27.6386434,-80.3972736,15,82.04
+20-Apr-2021,2021.0,Unprovoked,Hawaii,Kukio Bay,Swimming,1,19.8219841,-155.9995173,1,82.02
+17-Apr-2021,2021.0,Provoked,North Carolina,Outer Banks,Tagging sharks,1,35.5584932,-75.4665158,13,76.05
+02-Apr-2021,2021.0,Unprovoked,Florida,"Key Biscayne, Miami-Dade County",Swimming,1,25.693713,-80.1628248,2,87.3
+25-Mar-2021,2021.0,Unprovoked,Florida,"Fort Lauderdale, Broward County",Swimming,2,26.1224386,-80.1373174,15,79.2
+21-Mar-2021,2021.0,Unprovoked,Florida,"Miami Beach, Miami-Dade County",Body surfing,2,25.790654,-80.1300455,15,86.68
+18-Mar-2021,2021.0,Unprovoked,Florida,"Juno Beach, Palm Beach County",Wading,4,26.8797819,-80.0533743,14,80.37
+06-Feb-2021,2021.0,Unprovoked,Hawaii,"Waiokapua Bay, Kaui",Surfing,1,22.0083333,-159.7791667,1,84.2
+02-Feb-2021,2021.0,Watercraft,Maui,Ukumehama ,Kayaking,1,20.794627,-156.581786,2,85.87
+22-Jan-2021,2021.0,Watercraft,Florida,Off Tampa Bay,Fishing,1,27.763383,-82.5436722,0,80.91
+22-Jan-2021,2021.0,Unprovoked,Hawaii,Maui,Snorkeling,3,20.7983626,-156.3319253,4,78.53
+03-Jan-2021,2021.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Surfing,14,28.3200067,-80.6075513,12,80.02
+02-Jan-2021,2021.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Surfing,14,28.3200067,-80.6075513,12,80.02
+02-Jan-2021,2021.0,Unprovoked,Hawaii,"Anaehoomalu Bay
+Waikoloa, Hawaii County",Swimming,1,19.9161242,-155.8932242,15,81.82
+30-Dec-2020,2020.0,Unprovoked,California,"Coronado, San Diego County",Swimming,1,32.6858853,-117.1830891,15,82.58
+08-Dec-2020,2020.0,Unprovoked,Hawaii,Honolua Bay,Surfing,1,21.0139474,-156.638533,6,85.8
+06-Dec-2020,2020.0,Unprovoked,Oregon,"Seaside Cove, Clatsop County",Surfing,1,45.9748988,-123.9424796,15,62.19
+26-Nov-2020,2020.0,Unprovoked,Hawaii,Maui,Snorkeling,3,20.7983626,-156.3319253,4,78.53
+31-Oct-2020,2020.0,Unprovoked,Florida,Ormond Beach,Swimming,1,29.2858129,-81.0558894,15,81.64
+29-Oct-2020,2020.0,Unprovoked,"Franklin County, Florida",St George Island,Surfing,1,29.6584899,-84.8802444,13,82.36
+07-Oct-2020,2020.0,Unprovoked,Florida,"Miami Beach, Miami-Dade County",Body Surfing,2,25.790654,-80.1300455,15,86.68
+20-Sep-2020,2020.0,Unprovoked,Florida,"Sombero Key Light, Monroe County",Snorkeling,,,,,
+15-Sep-2020,2020.0,Unprovoked,Florida,"Ponce Inlet, Volusia County",Surfing,10,29.0963729,-80.9369983,5,81.61
+15-Sep-2020,2020.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Surfing,12,28.0683496,-80.5603303,11,80.53
+06-Sep-2020,2020.0,Unprovoked,Hawaii,Puako,Snorkeling,1,19.975,-155.8438889,14,81.81
+30-Aug-2020,2020.0,Unprovoked,South Carolina,"Folly Beach, Charleston County",Surfing,4,32.6551798,-79.9403673,5,80.06
+28-Aug-2020,2020.0,Unprovoked,California,"Shelter Cove, Humboldt County",Kayak fishing,1,40.0304212,-124.0730866,0,83.03
+23-Aug-2020,2020.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Standing,64,29.0258191,-80.9269984,15,81.45
+22-Aug-2020,2020.0,Unprovoked,Florida,"St. Augustine Beach, Anastasia Island, St. Johns County",Surfing,1,29.8439828,-81.2711546,15,82.72
+20-Aug-2020,2020.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,64,29.0258191,-80.9269984,15,81.45
+10-Aug-2020,2020.0,Provoked,Florida,"Off Gasparilla Island, Charlotte County",Fishing,1,26.7519472,-82.2624037,5,82.8
+02-Aug-2020,2020.0,Unprovoked,Virgin Islands,"Candle Reef, St. Croix",Snorkeling,1,17.7613587,-64.6518801,15,82.45
+31-Jul-2020,2020.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+31-Jul-2020,2020.0,Unprovoked,Alabama,"Orange Beach, Baldwin County",Swimming,1,30.2697033,-87.5867598,11,81.64
+29-Jul-2020,2020.0,Unprovoked,Florida,Florida Keys,Diving,1,25.0273356,-81.5357506,0,86.43
+27-Jul-2020,2020.0,Unprovoked,Maine,"Bailey Island, Cumberland County",Swimming,1,43.7366927,-69.9940654,3,66.34
+23-Jul-2020,2020.0,Unprovoked,Bahamas,Spanish Cay,Spearfishing,1,26.9408454,-77.5268296,0,85.32
+23-Jul-2020,2020.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Standing,64,29.0258191,-80.9269984,15,81.45
+22-Jul-2020,2020.0,Unprovoked,North Carolina,"Neuse River, Craven County",Treading water,1,35.1312747,-76.5038153,0,74.46
+19-Jul-2020,2020.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Wading,14,28.3200067,-80.6075513,12,80.02
+14-Jul-2020,2020.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Wading,12,28.0683496,-80.5603303,11,80.53
+10-Jul-202,2020.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Surfing,14,28.3200067,-80.6075513,12,80.02
+22-Jun-2020,2020.0,Unprovoked,Florida,"Homestead, Miami-Dade County",Playing,1,25.4687224,-80.4775569,15,87.78
+20-Jun-2020,2020.0,Unprovoked,North Carolina,"Salvo, Dare County",Body Surfing,1,35.54018,-75.4729347,12,75.94
+01-Jun-2020,2020.0,Unprovoked,Hawaii,"Davidsons Beach, Kauai",Surfing,1,21.9641667,-159.7088889,12,84.22
+09-May-2020,2020.0,Unprovoked,California,"Sand Dollar Beach, Santa Cruz County",Surfing,1,36.9243764,-121.8516977,6,77.02
+01-May-2020,2020.0,Unprovoked,California,"Summerland, Santa Barbara County",Swimming,1,34.4220518,-119.5981636,7,83.64
+07-Apr-2020,2020.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Surfing,14,28.3200067,-80.6075513,12,80.02
+27-Mar-2020,2020.0,Unprovoked,California,"Pleasure Point, Santa Cruz County",Stand-Up Paddleboarding,2,36.9635135,-121.9648975,15,79.05
+22-Mar-2020,2020.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+22-Mar-2020,2020.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+05-Feb-2020,2020.0,Unprovoked,Maui,Wailea,Stand-Up Paddle boarding,1,20.6871826,-156.4391668,15,85.5
+13-Jan-2020,2020.0,Unprovoked,North Carolina,"Rodanthe, Dare County",Surfing,2,35.600383,-75.4655882,12,76.3
+21-Dec-2019,2019.0,Unprovoked,California,"Santa Rosa Island, Ventura County",Surfing,1,33.9773487,-120.0896313,0,71.35
+03-Dec-2019,2019.0,Unprovoked,Hawaii,"Cove Park, Kihei, Maui",Stand-Up Paddleboarding,1,20.727318,-156.4499005,15,85.93
+30-Nov-2019,2019.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+12-Nov-2019,2019.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Surfing,14,28.3200067,-80.6075513,12,80.02
+06-Nov-2019,2019.0,Unprovoked,California,"San Onofre, San Diego County ",Surfing,2,33.3728077,-117.5656012,10,82.94
+27-Oct-2019,2019.0,Provoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+08-Oct-2019,2019.0,Unprovoked,Florida,"Fort Pierce, St. Lucie County",Surfing,2,27.4467056,-80.3256056,15,81.95
+05-Oct-2019,2019.0,Watercraft,California,"Ship Rock near Catalina, Los Angeles County",Kayaking,1,33.4625263,-118.4917455,0,77.22
+ 04-Oct-2019,2019.0,Unprovoked,Guam,Talofofo Bay ,Surfing,1,13.32,144.796667,7,83.79
+26-Sep-2019,2019.0,Unprovoked,Hawaii,"Kihei, South Maui",Surfing,1,20.7406491,-156.4542466,15,85.96
+24-Sep-2019,2019.0,Unprovoked,Florida,"Huguenot Park, Jacksonville, Duval County",Swimming,1,30.4110088,-81.4204882,1,84.0
+24-Sep-2019,2019.0,Unprovoked,Florida,"Satellite Beach, Brevard County",Surfing,1,28.1761233,-80.5900519,4,80.24
+18-Sep-2019,2019.0,Unprovoked,Hawaii,"Haleiwa, Oahu",Snorkeling,1,21.5927614,-158.1034112,15,84.22
+31-Aug-2019,2019.0,Unprovoked,Cayman Islands,Grand Cayman,Spearfishing,1,19.3221698,-81.2408689,9,84.04
+27-Aug-2019,2019.0,Provoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+21-Aug-2019,2019.0,Unprovoked,Florida,"Fort Lauderdale, Broward County",Wading,2,26.1224386,-80.1373174,15,79.2
+20-Aug-2019,2019.0,Unprovoked,Hawaii,"Napoopoo Park in Kealakekua Bay, The Big Island",Swimming/ Treading water,1,19.4709665,-155.9210389,14,83.25
+16-Aug-2019,2019.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Wading,64,29.0258191,-80.9269984,15,81.45
+11-Aug-2019,2019.0,Unprovoked,Hawaii,"Makaha Beach, Oahu",Surfing,1,21.4763581,-158.2203658,10,85.46
+04-Aug-2019,2019.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Standing,64,29.0258191,-80.9269984,15,81.45
+03-Aug-2019,2019.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+03-Aug-2019,2019.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+03-Aug-2019,2019.0,Unprovoked,Florida,Off Key Biscayne,Spearfishing / Diving,1,25.693713,-80.1628248,2,87.3
+29-Jul-2019,2019.0,Unprovoked,Hawaii,Molokai Channel/,Swimming,1,20.9946839,-156.7605548,0,85.55
+30-Jul-2019,2019.0,Provoked,North Carolina,"Off Cape Hatteras, Dare County",Fishing ,1,35.24804,-75.5393155,12,74.48
+29-Jul-2019,2019.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+27-Jul-2019,2019.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,64,29.0258191,-80.9269984,15,81.45
+27-Jul-2019,2019.0,Unprovoked,Florida,"Jacksonville Beach, Duval County",Surfing,6,30.2841224,-81.3961338,15,83.8
+22-Jul-2019,2019.0,Unprovoked,Rhode Island,"Moonstone Beach, South Kingstown, Washington County",Surfing,1,41.3865718,-71.5747455,6,68.02
+18-Jul-2019,2019.0,Unconfirmed,Florida,"Haulover Inlet, Miami-Dade County",Diving,1,25.9114426,-80.1234842,15,85.15
+16-Jul-2019,2019.0,Unprovoked,North Carolina,"Sunset Beach, Brunswick County",Body-surfing,2,33.8820632,-78.5183816,8,74.71
+12-Jul-2019,2019.0,Unprovoked,Florida,"Amelia Island, Nassau County",Boogie boarding,1,30.6265697,-81.460856,15,84.04
+30-Jun-2019,2019.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+16-Jun-2019,2019.0,Unprovoked,North Carolina,"Bald Head Island, Brunswick County",Swimming,3,33.8737069,-78.0015309,9,75.31
+16-Jun-2019,2019.0,Unprovoked,Georgia,"Wilmington River, Chatham County",Swimming,1,31.9944425,-80.996972,4,83.57
+10-Jun-2019,2019.0,Unprovoked,North Carolina,"Ocean Isle, Brunswick County",Surfing,4,33.8877282,-78.4364471,13,75.0
+02-Jun-2019,2019.0,Unprovoked,North Carolina,"Fort Macon State Beach, Carteret County",Standing,1,34.7000204,-76.6922289,15,75.06
+25-May-2019,2019.0,Unprovoked,Hawaii,"Honokowai Point, Maui",Swimming,1,20.9479024,-156.6920594,14,85.73
+20-May-2019,2019.0,Unprovoked,New Jersey,"Ship Bottom, Ocean County",Body Boarding,1,39.642897,-74.1804159,12,70.02
+14-May-2019,2019.0,Unprovoked,Hawaii,"Browns, Oahu",Surfing,1,21.2991603,-157.8560005,15,85.46
+08-May-2019,2019.0,Unprovoked,Hawaii,O'ahu,Swimming with sharks,1,21.4389123,-158.0000565,15,81.95
+07-May-2019,2019.0,Unprovoked,California,"North Salmon Creek Beach, Sonoma County",Surfing,1,38.3592396,-123.0682435,4,79.84
+01-May-2019,2019.0,Unprovoked,Florida,"Off Boca Grande, Lee County",Fishing,1,26.7490152,-82.2616717,5,82.8
+23-Apr-2019,2019.0,Unprovoked,Hawaii,"Anaehoomalu Bay, Hawaii",Kayaking,1,19.9161242,-155.8932242,15,81.82
+12-Apr-2019,2019.0,Questionable,Florida,"Crescent Beach, St Johns County",Boogie boarding,1,29.76886,-81.2536786,2,82.47
+06-Apr-2019,2019.0,Questionable,Hawaii,"North Koahala, Big Island",Picking opihi,1,20.0859161,-155.7171332,0,62.42
+06-Apr-2019,2019.0,Unprovoked,Hawaii,Kaiwi Channel,Swimming,2,21.2166667,-157.5,0,85.23
+26-Mar-2019,2019.0,Watercraft,Hawaii,Waikoloa area,Paddling an outrigger canoe,1,19.9372484,-155.7910681,6,78.62
+22-Mar-2019,2019.0,Unprovoked,Florida,"Hobe Sound, Martin County",Surfing,1,27.059498,-80.1364323,2,81.21
+16-Mar-2019,2019.0,Unprovoked,Hawaii,Kaiwi Channel,Swimming,2,21.2166667,-157.5,0,85.23
+12-Mar-2019,2019.0,Unprovoked,Florida,"Stuart Beach, Martin County",Boogie boarding,1,27.2143933,-80.1750214,9,81.36
+05-Mar-2019,2019.0,Unprovoked,Oregon,"Cape Kiwanda, Tillamook County",Surfing,1,45.2152814,-123.9695844,8,64.2
+04-Feb-2019,2019.0,Unprovoked,Hawaii,"Hanalei Bay, Kauai",Surfing,3,22.2090776,-159.5067583,15,81.07
+02-Feb-2019,2019.0,Unprovoked,Florida,Key Biscayne,Spearfishing,1,25.693713,-80.1628248,2,87.3
+8-Jan-2019,2019.0,Unprovoked,California,"Sandspit Beach, Montaña de Oro State Park ",Surfing,1,35.2723111,-120.8867814,9,79.09
+24-Nov-2018,2018.0,Unprovoked,Florida,"Juno Beach, Palm Beach County",Surfing,4,26.8797819,-80.0533743,14,80.37
+23-Oct-2018,2018.0,Unprovoked,Florida,"Near Patrick AFB, Brevard County",Surfing,1,28.2394645,-80.6075172,1,80.13
+23-Oct-2018,2018.0,Unprovoked,Florida,"Ponce Inlet, Volusia County",Surfing,10,29.0963729,-80.9369983,5,81.61
+23-Oct-2018,2018.0,Unprovoked,California,Farallon Islands,Diving / Filming,1,37.69891,-123.003361,0,61.83
+11-Oct-2018,2018.0,Unprovoked,Florida,"Bethune Beach, Volusia County",Surfing,4,28.9491539,-80.83783,4,81.09
+29-Sep-2018,2018.0,Unprovoked,California,"Beacons Beach, San Diego County",Diving,1,33.0651901,-117.3047175,10,84.34
+27-Sep-2018,2018.0,Watercraft,California,Humboldt County,Fishing,1,40.7450055,-123.8695086,0,61.72
+15-Sep-2018,2018.0,Unprovoked,Massachusetts,"Newcomb Hollow Beach, Wellfleet, Barnstable County",Boogie boarding,1,41.963231,-69.996453,3,69.21
+08-Sep-2018,2018.0,Unprovoked,Florida,"Ponce Inlet, Volusia County",Surfing,10,29.0963729,-80.9369983,5,81.61
+08-Sep-2018,2018.0,Unprovoked,Hawaii,"Pounders Beach, Oahu",Stand-Up Paddleboarding,1,21.6327357,-157.9204125,15,83.43
+07-Sep-2018,2018.0,Unprovoked,Florida,"Fort Pierce, St. Lucie County",Surfing,2,27.4467056,-80.3256056,15,81.95
+24-Aug-2018,2018.0,Unprovoked,California,"Huntington Beach, Orange County",Swimming,3,33.6594835,-117.9988026,15,83.73
+18-Aug-2018,2018.0,Unprovoked,North Carolina,"Atlantic Beach, Carteret  County",Surfing,1,34.6990505,-76.7402108,15,75.11
+15-Aug-2018,2018.0,Unprovoked,Massachusetts,"Longnook Beach, Truro, Barnstable County",Swimming,1,42.0209366,-70.0369682,4,69.17
+09-Aug-2018,2018.0,Unprovoked,Texas,"Crystal Beach, Galveston  County",Spearfishing,1,29.457177,-94.6396378,10,88.03
+05-Aug-2018,2018.0,Unprovoked,North Carolina,"Bald Head Island, Brunswick County",Standing,3,33.8737069,-78.0015309,9,75.31
+05-Aug-2018,2018.0,Unprovoked,North Carolina,"Bald Head Island, Brunswick County",Swimming/Standing,3,33.8737069,-78.0015309,9,75.31
+29-Jul-2018,2018.0,Unprovoked,Florida,"St Augustine, St Johns County",Surfing,1,29.9012437,-81.3124341,15,82.94
+18-Jul-2018,2018.0,Unprovoked,New York,"Atlantique Beach, Fire Island, Suffolk County",Boogie Boarding,1,40.6395443,-73.1731706,3,69.24
+18-Jul-2018,2018.0,Unprovoked,New York,"Sailors Haven, Fire Island, Suffolk County",Wading,1,40.6571732,-73.1053444,4,69.19
+ 16-Jul-2018,2018.0,Invalid,Texas,Galveston,Surfing,3,29.3013479,-94.7976958,15,88.27
+14-Jul-2018,2018.0,Provoked,California,"Trinidad Beach, Huboldt County",Wading,1,41.065402,-124.1503472,4,61.52
+14-Jul-2018,2018.0,Under investigation,Florida,"Playalinda Beach, Brevard County",Surfing,4,28.6555177,-80.6318287,0,79.77
+13-Jul-2018,2018.0,Unprovoked,Florida,"Fernandina Beach, Nassau County",Wading,2,30.6696818,-81.4625919,15,84.04
+13-Jul-2018,2018.0,Unprovoked,Florida,"Fernandina Beach, Nassau County",Surfing,2,30.6696818,-81.4625919,15,84.04
+11-Jul-2018,2018.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+07-Jul-2018,2018.0,Invalid,Florida,"John Pennekamp Coral Reef State Park, Monroe County",Snorkeling,1,25.1252463,-80.4060761,15,87.33
+02-Jul-2018,2018.0,Unprovoked,South Carolina,Myrtle Beach,Boogie boarding,2,33.6890603,-78.8866943,15,73.92
+25-Jun-2018,2018.0,Watercraft,California,"Oceanside, San Diego County",Paddling,1,33.1958696,-117.3794834,15,84.38
+18-Jun-2018,2018.0,Provoked,Florida,"Near the Bahia Honda Bridge, Monroe County",Fishing,1,24.6547218,-81.2816998,0,85.78
+18-Jun-2018,2018.0,Unprovoked,Georgia,"St. Simon Island, Glynn County",Standing,1,31.1595905,-81.3885517,15,83.93
+09-Jun-2018,2018.0,Invalid,Hawaii,"Habush, Oahu",Surfing,1,21.306613,-158.025335,6,86.25
+27-May-2018,2018.0,Provoked,Florida,"Lighhouse Point Park, Ponce Inlet, Volusia County",Fishing,1,29.078526,-80.9218453,9,81.59
+26-May-2018,2018.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Walking,14,28.3200067,-80.6075513,12,80.02
+26-May-2018,2018.0,Unprovoked,Florida,"Daytona Beach, Volusia County",Standing,2,29.2108147,-81.0228331,15,81.63
+21-May-2018,2018.0,Unprovoked,South Carolina,"Isle of Palms,  Charleston County",Boogie boarding,1,32.8194131,-79.7343791,6,79.74
+13-May-2018,2018.0,Unprovoked,South Carolina,"Hilton Head Island, Beaufort County",Swimming,4,32.216316,-80.752608,9,83.21
+28-Apr-2018,2018.0,Provoked,Texas,Galveston Bay,Fishing,1,29.4719753,-94.7691586,0,88.45
+19-Apr-2018,2018.0,Unprovoked,Hawaii,"Shipwreck’s Beach, Keoneloa Bay, Kauai",Body boarding,1,21.8721041,-159.4378012,15,82.76
+31-Mar-2018,2018.0,Unprovoked,Hawaii,Kukio Beach,Stand-Up Paddleboarding,1,19.8230556,-156.0008333,1,82.02
+31-Dec-2017,2017.0,Unprovoked,Hawaii,"Hultin''s Beach, Oahu",Surfing,1,21.6187696,-158.0854313,15,84.02
+30-Dec-2017,2017.0,Unprovoked,California,"Drakes Estero, Point Reyes, Marin County",Surfing,1,38.0537357,-122.9409494,0,70.7
+24-Nov-2017,2017.0,Unprovoked,California,"Stillwater Cove, Monterey County",Spearfishing,1,36.563945,-121.9423337,15,63.57
+18-Nov-2017,2017.0,Unprovoked,Florida,"Floridana Beach, Brevard County",Surfing,2,27.9456312,-80.497996,1,80.94
+02-Nov-2017,2017.0,Unprovoked,Hawaii,Makaha,Surfing,1,21.4634328,-158.2206477,11,85.6
+26-Oct-2017,2017.0,Unprovoked,Hawaii,"White Plains Beach, Oahu",Stand-Up Paddleboarding,2,21.3035275,-158.0452282,10,86.79
+23-Oct-2017,2017.0,Unprovoked,Florida,"Juno Beach, Palm Beach County",Surfing ,4,26.8797819,-80.0533743,14,80.37
+23-Oct-2017,2017.0,Unprovoked,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Swimming,2,26.7937155,-80.032878,15,78.85
+18-Oct-2017,2017.0,Unprovoked,Florida,"Lantana Beach, Palm Beach County",Swimming,1,26.5867358,-80.0519859,15,78.89
+09-Oct-2017,2017.0,Unprovoked,Hawaii,"Davidsons Beach, Kekaha, Kauai",Surfing,1,21.9641667,-159.7088889,12,84.22
+05-Oct-2017,2017.0,Unprovoked,Hawaii,"Kama‘ole Beach Park, Maui ",Snorkeling,1,20.7221617,-156.4479447,15,85.89
+25-Sep-2017,2017.0,Unprovoked,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,2,30.3709252,-81.4067718,7,83.95
+24-Sep-2017,2017.0,Invalid,New York,Rockaway,Surfing,1,40.592658,-73.7977928,15,69.84
+24-Sep-2017,2017.0,Unprovoked,Florida,Fort Worth,Surfing,1,32.7554883,-97.3307658,15,90.75
+20-Sep-2017,2017.0,Unprovoked,Florida,Palm Beach County,Surfing,1,26.6514503,-80.2767327,8,78.62
+16-Sep-2017,2017.0,Unprovoked,Florida,"Ponce Inlet, Volusia County",Surfing,10,29.0963729,-80.9369983,5,81.61
+13-Sep-2017,2017.0,Unprovoked,Florida,"Ponce Inlet, Volusia County",Surfing,10,29.0963729,-80.9369983,5,81.61
+02-Sep-2017,2017.0,Unprovoked,Florida,"Marathon, Monroe County",Swimming,1,24.726026,-81.0446262,15,85.1
+02-Sep-2017,2017.0,Unprovoked,Texas,"South Padre Island, Cameron County",Swimming,2,26.1118401,-97.1681257,15,88.93
+02-Sep-2017,2017.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+27-Aug-2017,2017.0,Unprovoked,Florida,Bathtub Beach ,Wading,1,27.186242,-80.16036,7,81.52
+23-Aug-2017,2017.0,Unprovoked,Massachusetts,"Marconi Beach, Wellfleet, Barnstable County",SUP,1,41.8917732,-69.9611306,10,69.13
+10-Aug-2017,2017.0,Unprovoked,South Carolina,"Sea Pines Resort, Hilton Head Island, Beaufort County",Swimming,1,32.1564095,-80.7669039,15,82.98
+03-Aug-2017,2017.0,Provoked,Massachusetts,"Menauhant Beach, Falmouth,
+Barnstable County",Fishing,1,41.5493017,-70.5557244,5,69.62
+07-Jul-2016,2016.0,Provoked,Massachusetts,"Off Gloucester, Essec County",Fishing,1,42.6159285,-70.6619888,15,69.04
+01-Aug-2017,2017.0,Watercraft,California,"Between Pescadero Point & Bean Hollow Beach, San Mateo County",Fishing,1,37.2273608,-122.4109773,1,77.79
+31-Jul-2017,2017.0,Unprovoked,Florida,"Jacksonvlle, Duval County",Skimboarding,1,30.3321838,-81.655651,15,84.11
+29-Jul-2017,2017.0,Invalid,South Carolina,"Hilton Head Island, Beaufort County",Swimming,4,32.216316,-80.752608,9,83.21
+20-Jul-2017,2017.0,Invalid,South Carolina,"Hilton Head Island, Beaufort County",Swimming,4,32.216316,-80.752608,9,83.21
+20-Jul-2017,2017.0,Watercraft,California,"Stearns Wharf, Santa Barbara",Kayaking,1,34.4099861,-119.6855917,15,82.63
+20-Jul-2017,2017.0,Unprovoked,California,"Seal Rock, Goleta Beach, Santa Barbara",SUP,1,34.4168342,-119.8322099,15,82.63
+14-Jul-2017,2017.0,Unprovoked,Washington,"South Beach, Westport, Grays Harbor County",Surfing,1,46.8889468,-124.1064502,15,63.84
+11-Jul-2017,2017.0,Watercraft,California,"Santa Cruz, Santa Cruz County",Kayaking,1,36.9741171,-122.0307963,15,79.56
+09-Jul-2017,2017.0,Unprovoked,Florida,"Haulover Beach, Miami-Dade County",Swimming,1,25.9114426,-80.1234842,15,85.15
+29-Jun-2017,2017.0,Invalid,South Carolina,Wrightsville Beach,Fishing,2,34.2085036,-77.7963709,14,75.29
+21-Jun-2017,2017.0,Unprovoked,South Carolina,"South Forest Beach, Hilton Head Island, Beaufort County",Swimming,1,32.1421266,-80.7523971,15,83.34
+19-Jun-2017,2017.0,Unprovoked,Florida,"Singer Island, Palm Beach County",Surfing,1,26.7850625,-80.0375408,11,78.84
+18-Jun-2017,2017.0,Unprovoked,South Carolina,"Burkes Beach, Hilton Head, Beaufort County",Swimming,2,32.1940526,-80.6976655,15,82.98
+10-Jun-2017,2017.0,Unprovoked,Florida,"Ponce Inlet, Volusia County",Surfing,10,29.0963729,-80.9369983,5,81.61
+04-Jun-2017,2017.0,Unprovoked,Florida,"Middle Sambo Reef off Boca Chica, Monroe County",Spearfishing,1,24.5735893,-81.6856808,2,87.71
+30-May-2017,2017.0,Provoked,South Carolina,"Awendaw, Charleston County",Touching a shark,1,33.0376703,-79.613127,0,78.87
+28-May-2017,2017.0,Unprovoked,Florida,Off Jupiter,Feeding sharks,1,26.9342246,-80.0942087,15,80.82
+03-May-2017,2017.0,Invalid,California,"Sunset Beach, Orange County",Surfing,1,33.7207336,-118.0735739,15,83.55
+29-Apr-2017,2017.0,Unprovoked,California,"San Onofre, San Diego County ",Swimming,2,33.3728077,-117.5656012,10,82.94
+29-Apr-2017,2017.0,Unprovoked,South Carolina,"Folly Beach, Charleston County",Surfing,4,32.6551798,-79.9403673,5,80.06
+20-Apr-2017,2017.0,Invalid,South Carolina,Georgetown County,Swimming,1,33.4213399,-79.2902133,15,74.46
+14-Apr-2017,2017.0,Unprovoked,Hawaii,"Kekaha Beach, Kauai",Surfing,1,21.9716899,-159.7304201,6,84.22
+13-Apr-2017,2017.0,Unprovoked,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,2,30.3709252,-81.4067718,7,83.95
+12-Apr-2017,2017.0,Unprovoked,Florida,St. Augustine,Surfing,1,29.9012437,-81.3124341,15,82.94
+11-Apr-2017,2017.0,Unprovoked,Florida,"Ormond Beach, Volusia County",Surfing,5,29.2858129,-81.0558894,15,81.64
+10-Apr-2017,2017.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Paddle boarding,12,28.0683496,-80.5603303,11,80.53
+10-Apr-2017,2017.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Swimming,12,28.0683496,-80.5603303,11,80.53
+06-Apr-2017,2017.0,Unprovoked,Florida,"Daytona, Volusia County",Swimming,1,29.2108147,-81.0228331,15,81.63
+05-Apr-2017,2017.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Swimming,64,29.0258191,-80.9269984,15,81.45
+02-Apr-2017,2017.0,Unprovoked,Florida,"Destin, Okaloosa County",Swimming,2,30.3935337,-86.4957833,15,84.29
+27-Mar-2017,2017.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+18-Mar-2017,2017.0,Watercraft,California,Monterey Bay,Kayaking,1,36.8007413,-121.947311,0,72.46
+11-Feb-2017,2017.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Swimming,12,28.0683496,-80.5603303,11,80.53
+01-Feb-2017,2017.0,Watercraft,South Carolina,16 miles off Hilton Head,Fishing,,,,,
+05-Jan-2017,2017.0,Unprovoked,Florida,"Blockhouse Beach, Brevard County",Wading,1,28.2525727,-80.6031587,0,80.13
+27-Dec-2016,2016.0,Unprovoked,Florida,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",Surfing,1,27.5382739,-80.3162096,3,82.02
+11-Dec-2016,2016.0,Invalid,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+14-Nov-2016,2016.0,Unprovoked,Hawaii,"Kamaole Beach Park I, Maui",Floating,1,20.7221617,-156.4479447,15,85.89
+30-Oct-2016,2016.0,Unprovoked,Florida,"Mayport Naval Station Beach, Duval County",Surfing,1,30.3787375,-81.410396,7,83.91
+29-Oct-2016,2016.0,Unprovoked,Florida,Mayport Naval Station  Duval County,Surfing,1,30.3884228,-81.407636,4,83.97
+21-Oct-2016,2016.0,Unprovoked,Hawaii,"Hooipa Beach Park, Maui",Surfing,1,20.9342545,-156.356079,11,85.93
+14-Oct-2016,2016.0,Unprovoked,Hawaii,"Charlie Young Beach, Kihei, Maui",Snorkeling,1,20.7245696,-156.4490623,15,85.89
+10-Oct-2016,2016.0,Unprovoked,Oregon,"Indian Beach, Ecola State Park, Clatsop County",Surfing,1,45.9286181,-123.9785354,14,61.74
+02-Oct-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+01-Oct-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfng,64,29.0258191,-80.9269984,15,81.45
+18-Sep-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+18-Sep-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+18-Sep-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+17-Sep-2016,2016.0,Unprovoked,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,2,40.7195153,-124.242601,2,63.82
+11-Sep-2016,2016.0,Unprovoked,Florida,"Ponte Vedra, St. Johns County",Wading,3,30.2400058,-81.3852595,10,83.75
+07-Sep-2016,2016.0,Unprovoked,Hawaii,"Makaha, Oahu",Swimming,1,21.4634328,-158.2206477,11,85.6
+05-Sep-2016,2016.0,Unprovoked,South Carolina,"Kingston Plantation, Myrtle Beach, Horry County",Boogie boarding,1,33.7700414,-78.7823541,15,73.96
+04-Sep-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Body boarding,64,29.0258191,-80.9269984,15,81.45
+01-Sep-2016,2016.0,Unprovoked,California,"Refugio State Beach, Santa Barbara County",Spearfishing,1,34.4631659,-120.0701354,0,85.93
+29-Aug-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+29-Aug-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+25-Aug-2016,2016.0,Unprovoked,Florida,"Ponte Vedra, St. Johns County",Wading,3,30.2400058,-81.3852595,10,83.75
+06-Aug-2016,2016.0,Unprovoked,Hawaii,Maui,SUP Foil boarding,3,20.7983626,-156.3319253,4,78.53
+04-Aug-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+27-Jul-2016,2016.0,Provoked,Florida,"Florida Keys, Monroe County",Lobstering,3,25.0273356,-81.5357506,0,86.43
+17-Jul-2016,2016.0,Watercraft,Alabama,8 miles off Mobile,Fishing,1,42.450501,-82.9657473,15,67.5
+16-Jul-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+15-Jul-2016,2016.0,Unprovoked,California,"Surfside, Orange County",Kite surfing,1,33.7271486,-118.0819073,13,83.21
+15-Jul-2016,2016.0,Unprovoked,South Carolina,"North Myrtle Beach, Horry County",Swimming,3,33.8160058,-78.680016,15,74.28
+08-Jul-2016,2016.0,Watercraft,California,"Capitola, Santa Cruz County",Fishing ,1,36.9752283,-121.953293,15,79.48
+07-Jul-2016,2016.0,Watercraft,California,"Off Palos Verdes peninsula, Los Angeles County",Fishing ,1,33.7683844,-118.3492165,15,77.7
+06-Jul-2016,2016.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Swimming,12,28.0683496,-80.5603303,11,80.53
+25-Jun-2016,2016.0,Unprovoked,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Surfing,2,34.6628147,-77.0415058,15,75.83
+21-Jun-2016,2016.0,Unprovoked,South Carolina,"North Myrtle Beach, Horry County",Floating,3,33.8160058,-78.680016,15,74.28
+21-Jun-2016,2016.0,Unprovoked,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Wading,1,28.1673007,-80.5877597,5,80.24
+15-Jun-2016,2016.0,Unprovoked,Hawaii,"Kalapaki Beach, Kauai",Surfing,1,21.9605229,-159.3501759,15,82.6
+14-Jun-2016,2016.0,Unprovoked,Texas,"Pirates Beach, Galveston",Floating in tube,1,29.2044545,-94.9364053,4,88.25
+11-Jun-2016,2016.0,Unprovoked,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Standing,2,34.6628147,-77.0415058,15,75.83
+07-Jun-2016,2016.0,Invalid,South Carolina,"Folly Beach, Charleston County",Surfing,4,32.6551798,-79.9403673,5,80.06
+05-Jun-2016,2016.0,Unprovoked,Florida,"Flagler Beach, Flagler County",Swimming,1,29.4749754,-81.1270035,6,82.17
+29-May-2016,2016.0,Unprovoked,California,"Corona Del Mar, Newport, Orange County",Swimming,1,33.5978595,-117.8730142,15,83.46
+29-May-2016,2016.0,Unprovoked,Florida,"Neptune, Duval County",Swimming,1,30.311908,-81.3964734,15,83.88
+22-May-2016,2016.0,Unprovoked,Florida,"Vero Beach, Indian River County",Swimming,3,27.6386434,-80.3972736,15,82.04
+21-May-2016,2016.0,Unprovoked,Florida,"St. Petersburg, Pinellas County",Swimming,1,27.7676008,-82.6402915,15,81.14
+21-May-2016,2016.0,Unprovoked,Florida,"Hugenot Beach , Jacksonville, Duval County",Swimming,1,30.2731279,-81.3877396,15,83.75
+18-May-2016,2016.0,Unprovoked,Florida,"Ponte Vedra, St. Johns County",Swimming,3,30.2400058,-81.3852595,10,83.75
+15-May-2016,2016.0,Provoked,Florida,"Boca Raton, Palm Beach County",Teasing a shark,1,26.3683064,-80.1289321,15,78.19
+03-May-2016,2016.0,Unprovoked,Hawaii,"Wailea Beach, Maui",Floating,2,20.682848,-156.4429602,15,85.86
+23-Apr-2016,2016.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+13-Apr-2016,2016.0,Unprovoked,Florida,"Off Singer Island, Palm Beach County",Spearfishing,1,26.7850625,-80.0375408,11,78.84
+07-Apr-2016,2016.0,Unprovoked,Florida,"Florida Keys, Monroe County",Fishing,3,25.0273356,-81.5357506,0,86.43
+07-Apr-2016,2016.0,Invalid,Florida,"Corners Beach, Jupiter, Palm Beach County",SUP,1,26.9346198,-80.0923598,15,80.82
+31-Mar-2016,2016.0,Unprovoked,Hawaii,"Olowalu, Maui",Snorkeling,1,20.812688,-156.6227425,1,85.75
+13-Mar-2016,2016.0,Invalid,California,"Bolsa Chica State Park, Orange County",Surfing,1,33.6955698,-118.0487973,15,83.61
+11-Mar-2016,2016.0,Unprovoked,Florida,"Vero Beach, St. Lucie County",Body surfing,1,27.6478142,-80.3552815,15,81.63
+28-Jan-2016,2016.0,Unprovoked,Hawaii,"Hanalei Bay, Kauai",Surfing,3,22.2090776,-159.5067583,15,81.07
+25-Jan-2016,2016.0,Unprovoked,Hawaii,"Hanalei Bay, Kauai, ",Surfing,1,22.2090776,-159.5067583,15,81.07
+24-Jan-2016,2016.0,Unprovoked,Texas,Off Surfside,Spearfishing,1,25.8784284,-80.1256007,15,85.71
+23-Jan-2016,2016.0,Unprovoked,Hawaii,"Wailea Beach, Maui",Paddle boarding,2,20.682848,-156.4429602,15,85.86
+22-Dec-2015,2015.0,Unprovoked,Hawaii,La'aloa Beach Park,Paddle boarding,1,19.5937185,-155.9712015,15,83.08
+16-Nov-2015,2015.0,Unprovoked,Florida,"Playalinda Beach, Brevard County",Surfing,4,28.6555177,-80.6318287,0,79.77
+15-Nov-2015,2015.0,Unprovoked,Florida,"Palm Beach, Palm Beach County",Swimming,1,26.7056206,-80.0364297,15,78.78
+15-Nov-2015,2015.0,Unprovoked,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,2,26.7937155,-80.032878,15,78.85
+07-Nov-2015,2015.0,Invalid,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,1,28.1224397,-80.5760513,11,80.37
+03-Nov-2015,2015.0,Unprovoked,Hawaii,"Kehena Beach, Hawaii",Swimming,1,19.3946577,-154.9290878,3,81.28
+01-Nov-2015,2015.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Wading,14,28.3200067,-80.6075513,12,80.02
+28-Oct-2015,2015.0,Unprovoked,Hawaii,"Malaka, Oahu",Body boarding,1,21.4389123,-158.0000565,15,81.95
+21-Oct-2015,2015.0,Unprovoked,Florida,"Playalinda Beach, Brevard County",Surfing,4,28.6555177,-80.6318287,0,79.77
+19-Oct-2015,2015.0,Unprovoked,Florida,"Deerfield Beach, Broward County",Surfing,1,26.3184123,-80.0997657,15,78.12
+17-Oct-2015,2015.0,Invalid,Hawaii,"Waikiki, ",Surfing,1,21.2793462,-157.8291847,15,85.71
+17-Oct-2015,2015.0,Unprovoked,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,1,21.3925378,-157.7151208,10,84.7
+13-Oct-2015,2015.0,Watercraft,California,"Off Leffingwell Landing, San Luis Obispo County",Fishing,1,35.5838504,-121.1214197,15,88.84
+09-Oct-2015,2015.0,Unprovoked,South Carolina,"Shipyard Beach Club, Hilton Head Island, Beaufort County",Boogie boarding,1,32.1537409,-80.7301358,15,82.76
+09-Oct-2015,2015.0,Unprovoked,Hawaii,"Leftovers, Oahu",Surfing,1,21.6285714,-158.0734275,15,83.41
+05-Oct-2015,2015.0,Unprovoked,Florida,"Pepper Park Beach, St. Lucie County",Body boarding,1,27.4957492,-80.3010172,15,81.72
+05-Oct-2015,2015.0,Unprovoked,Texas,Galveston,Wading,3,29.3013479,-94.7976958,15,88.27
+04-Oct-2015,2015.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+29-Sep-2015,2015.0,Unprovoked,Florida,"Vilano Beach, St.  Johns County",Surfing,2,29.9385794,-81.3020173,15,83.1
+24-Sep-2015,2015.0,Watercraft,California,"Horseshoe Rock, Santa Barbara County",Kayak fishing,1,34.9977127,-120.1256102,0,77.04
+20-Sep-2015,2015.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+20-Sep-2015,2015.0,Unprovoked,Hawaii,"Upolu Point, North Kohala, Big Island",Spearfishing,1,20.2689664,-155.8545221,15,81.77
+20-Sep-2015,2015.0,Unprovoked,Florida,"Fernandina Beach, Amelia Island, Nassau County",Wading,1,30.6696818,-81.4625919,15,84.04
+20-Sep-2015,2015.0,Unprovoked,Florida,"Vilano Beach, St.  Johns County",Photographing fish,2,29.9385794,-81.3020173,15,83.1
+19-Sep-2015,2015.0,Watercraft,California,"Gaviota State Beach, Santa Barbara County",Kayak Fishing,1,34.4892739,-120.2304511,0,84.87
+18-Sep-2015,2015.0,Unprovoked,Florida,"Big Talbot Island, Duval County",Swimming,1,30.4811581,-81.4430057,0,83.98
+17-Sep-2015,2015.0,Unprovoked,Florida,"Jacksonville Beach, Duval County",Surfing,6,30.2841224,-81.3961338,15,83.8
+06-Sep-2015,2015.0,Unprovoked,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,1,34.0403608,-118.8921386,2,84.74
+05-Sep-2015,2015.0,Provoked,California,"Deer Creek Beach, Ventura County",Kayak Fishing,1,34.0626091,-118.9866325,0,85.03
+29-Aug-2015,2015.0,Unprovoked,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,1,35.3918466,-120.8664024,15,81.79
+29-Aug-2015,2015.0,Unprovoked,California,"Morro Bay, San Luis Obispo County",Surfing,1,35.3659445,-120.8499924,15,80.71
+20-Aug-2015,2015.0,Unprovoked,South Carolina,"Murrells Inlet, Georgetown County",Surfing,1,33.5510021,-79.0414261,10,74.12
+19-Aug-2015,2015.0,Unprovoked,Florida,"Jacksonville Beach, Duval County",Walking,6,30.2841224,-81.3961338,15,83.8
+18-Aug-2015,2015.0,Watercraft,California,Santa Barbara County,Kayak Fishing,3,34.4208305,-119.6981901,15,82.76
+10-Aug-2015,2015.0,Provoked,California,Cortes Bank,Spearfishing,1,32.4666667,-119.1666667,0,68.11
+26-Jul-2015,2015.0,Unprovoked,Florida,"Daytona Beach, Volusia County",Surfing,2,29.2108147,-81.0228331,15,81.63
+26-Jul-2015,2015.0,Invalid,South Carolina,"Edisto Beach, Colleton County",Floating,1,32.4793551,-80.3348229,12,81.5
+23-Jul-2015,2015.0,Provoked,California,"La Jolla, San Diego County",Kayak Fishing,2,32.8328112,-117.2712717,15,82.15
+10-Jul-2015,2015.0,Unprovoked,California,"Huntington Beach, Orange County",Surfing,3,33.6594835,-117.9988026,15,83.73
+08-Jul-2015,2015.0,Invalid,California,"Huntington Beach, Orange County",Treading water,3,33.6594835,-117.9988026,15,83.73
+01-Jul-2015,2015.0,Unprovoked,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",Swimming,1,35.1260181,-75.9186726,12,74.88
+30-Jun-2015,2015.0,Unprovoked,South Carolina,"Isle of Palms County Park, Isle of Palms, Charleston County",Playing in the water,1,32.786886,-79.785866,9,79.81
+27-Jun-2015,2015.0,Unprovoked,North Carolina,"Rodanthe, Dare County",Swimming,2,35.600383,-75.4655882,12,76.3
+26-Jun-2015,2015.0,Invalid,Florida,"Jacksonville Beach, Duval County",Swimming,6,30.2841224,-81.3961338,15,83.8
+26-Jun-2015,2015.0,Unprovoked,South Carolina,"South Beach, Hunting Island State Park, Beaufort County",Standing,1,32.3689364,-80.4461696,5,82.6
+25-Jun-2015,2015.0,Unprovoked,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Body surfing?,2,35.3521855,-75.5108445,15,75.07
+24-Jun-2015,2015.0,Unprovoked,North Carolina,Surf City,Swimming,1,34.4271121,-77.5460805,15,75.25
+23-Jun-2015,2015.0,Unprovoked,South Carolina,"St. Helena Island, Beaufort County",Standing,1,32.3972009,-80.5549561,1,82.76
+17-Jun-2015,2015.0,Unprovoked,Florida,Daytona Beach Shores,Swimming,1,29.1760933,-80.9828323,15,81.72
+14-Jun-2015,2015.0,Unprovoked,North Carolina,"Oak Island, Brunswick County",Wading,2,33.9203824,-78.1608197,10,75.27
+14-Jun-2015,2015.0,Unprovoked,North Carolina,"Oak Island, Brunswick County",Wading,2,33.9203824,-78.1608197,10,75.27
+11-Jun-2015,2015.0,Unprovoked,North Carolina,"Ocean Isle, Brunswick County",Boogie boarding,4,33.8877282,-78.4364471,13,75.0
+07-Jun-2015,2015.0,Unprovoked,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Playing,3,28.3371416,-80.609485,15,80.01
+05-Jun-2015,2015.0,Unprovoked,Florida,Fort Lauderdale,Attempting to rescue a shark,2,26.1224386,-80.1373174,15,79.2
+29-May-2015,2015.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Standing,14,28.3200067,-80.6075513,12,80.02
+29-May-2015,2015.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Wading,64,29.0258191,-80.9269984,15,81.45
+24-May-2015,2015.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Swimming,14,28.3200067,-80.6075513,12,80.02
+20-May2015,2015.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+07-May-2015,2015.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Swimming,14,28.3200067,-80.6075513,12,80.02
+29-Apr-2015,2015.0,Unprovoked,Hawaii,Kanahena Cove ,Snorkeling,1,20.618084,-156.437518,2,85.93
+26-Apr-2015,2015.0,Unprovoked,Florida,"Resident''s Beach, Marco Island",Wading,1,25.9354415,-81.7331861,14,85.51
+13-Apr-2015,2015.0,Unprovoked,Florida,"Florida Keys, Monroe County",Photographing the shark,3,25.0273356,-81.5357506,0,86.43
+03-Apr-2015,2015.0,Unprovoked,Florida,"3 miles off Jupiter, Palm Beach County",Spearfishing,,,,,
+18-Mar-2015,2015.0,Unprovoked,Hawaii,Hapuna Beach,Standing / Snorkeling,1,19.9922847,-155.8256923,14,81.68
+27-Jan-2015,2015.0,Provoked,Hawaii,Lahaina,Shark fishing,1,20.8783333,-156.6825,15,85.71
+19-Jan-2015,2015.0,Watercraft,Florida,Off Panama City,Fishing,1,30.1765914,-85.8054879,15,83.5
+28-Dec-2014,2014.0,Unprovoked,California,"Montaña de Oro State Park, San Luis Obispo County ",Surfing,1,35.2723111,-120.8867814,9,79.09
+16-Nov-2014,2014.0,Unprovoked,Florida,"Indian Harbor Beach, Brevard County",Surfing,1,28.1489021,-80.5883855,7,80.22
+13-Nov-2014,2014.0,Unprovoked,Hawaii,"Airplane Beach, Lahina, West Maui",Snorkeling,1,20.9207712,-156.6960961,15,85.66
+08-Nov-2014,2014.0,Unprovoked,Florida,"Fort Pierce Inlet State Park, St. Lucie County",Surfing,1,27.4820331,-80.3016686,15,81.97
+31-Oct-2014,2014.0,Unprovoked,Hawaii,"North Kohala, Hawaii County",Surfing,1,19.6924307,-155.8500639,0,54.86
+22-Oct-2014,2014.0,Unprovoked,Hawaii,"Kihei, Maui",Stand-Up Paddleboarding,2,20.7644275,-156.4450063,15,85.73
+20-Oct-2014,2014.0,Unprovoked,Hawaii,"Kahului, Maui",Stand-Up Paddleboarding,1,20.8893351,-156.4729469,15,85.95
+19-Oct-2014,2014.0,Watercraft,California,"Leadbetter Beach, Santa Barbara County",Canoeing,1,34.4024155,-119.6991599,15,82.51
+18-Oct-2014,2014.0,Unprovoked,Hawaii,"Maalaea, South Maui",Surfing,1,20.7963889,-156.5141667,6,85.8
+14-Oct-2014,2014.0,Unprovoked,South Carolina,"Hilton Head Island, Beaufort County",Standing in inner tube,4,32.216316,-80.752608,9,83.21
+12-Oct-2014,2014.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Body surfing or Boogie boarding,12,28.0683496,-80.5603303,11,80.53
+05-Oct-2014,2014.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+07-Oct-2014,2014.0,Unprovoked,Florida,"Cherie Down Park, Brevard County",Fishing,1,28.3918352,-80.5969563,9,79.95
+05-Oct-2014,2014.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+03-Oct-2014,2014.0,Watercraft,California,Santa Barbara County,Kayaking,3,34.4208305,-119.6981901,15,82.76
+03-Oct-2014,2014.0,Watercraft,California,Santa Barbara County,Kayaking ,3,34.4208305,-119.6981901,15,82.76
+02-Oct-2014,2014.0,Unprovoked,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,1,34.7069443,-120.6007178,1,74.82
+21-Sep-2014,2014.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+13-Sep-2014,2014.0,Invalid,California,"Manresa State Beach, Santa Cruz County",Surfing,1,36.9321893,-121.8630067,5,77.61
+06-Sep-2014,2014.0,Unprovoked,Alabama,"Katrina Cut, Dauphin Island, Mobile County",Fishing ,1,30.2522943,-88.1218171,9,82.76
+03-Sep-2014,2014.0,Watercraft,Massachusetts,"Manomet Point, Plymouth, Plymouth County",Kayaking ,1,41.9221287,-70.5488323,4,69.26
+02-Sep-2014,2014.0,Provoked,Florida,"Fletcher Beach, Hutchinson Island, Martin County",Fishing,1,27.2054948,-80.1694057,6,81.55
+31-Aug-2014,2014.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Body surfing,64,29.0258191,-80.9269984,15,81.45
+29-Aug-2014,2014.0,Unprovoked,Florida,"Ponce Inlet, Volusia County",Surfing,10,29.0963729,-80.9369983,5,81.61
+28-Aug-2014,2014.0,Provoked,Maryland,Assateague National Seashore,Fishing,1,38.0607973,-75.2362382,0,69.75
+27-Aug-2014,2014.0,Unprovoked,North Carolina,"Figure Eight Island,  New Hanover County",Surfing,1,34.2693745,-77.7444928,3,75.36
+27-Aug-2014,2014.0,Unprovoked,South Carolina,"Surfside Beach, Horry  County",Standing,1,33.6060031,-78.9730887,15,74.03
+ 25-Aug-2014,2014.0,Provoked,Florida,Apalachicola Bay ,Fishing for sharks,1,29.6718143,-85.0025539,14,82.45
+24-Aug-2014,2014.0,Unprovoked,North Carolina,"Off Masonboro Island, New Hanover County",Kite boarding,1,34.1231687,-77.8515264,5,75.24
+12-Aug-2014,2014.0,Unprovoked,Florida,"3 to 4 miles west of Indian Pass, Gulf County",Standing,1,29.6904903,-85.2643618,1,82.74
+09-Aug-2014,2014.0,Unprovoked,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Swimming,3,28.3371416,-80.609485,15,80.01
+08-Aug-2014,2014.0,Unprovoked,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,1,30.0380591,-90.0155759,6,86.02
+06-Aug-2014,2014.0,Unprovoked,South Carolina,"Folly Beach, Charleston County",Boogie boarding,4,32.6551798,-79.9403673,5,80.06
+05-Aug-2014,2014.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Swimming,14,28.3200067,-80.6075513,12,80.02
+02-Aug-2014,2014.0,Unprovoked,Florida,"South of Cocoa Beach, Brevard County",Surfing,1,28.2813972,-80.6064403,4,80.06
+02-Aug-2014,2014.0,Unprovoked,Florida,"Table Beach, Brevard County",Boogie boarding,1,28.2666061,-80.6056434,3,80.08
+27-Jul-2014,2014.0,Unprovoked,North Carolina,"Sunset Beach, Brunswick County",Swimming,2,33.8820632,-78.5183816,8,74.71
+21-Jul-2014,2014.0,Unprovoked,Florida,"Indialantic, Brevard County",Standing,2,28.0894599,-80.5656079,12,80.47
+16-Jul-2014,2014.0,Unprovoked,Hawaii,"Paia Bay, Maui",Swimming,2,20.9173855,-156.3836273,8,86.0
+14-Jul-2014,2014.0,Unprovoked,Florida,Okaloosa Island,Swimming,1,30.3980135,-86.5977355,15,84.22
+12-Jul-2014,2014.0,Unprovoked,North Carolina,"Masonboro Island, New Hanover County",Body surfing,1,34.1329044,-77.8510213,5,75.22
+9-Jul-2014,2014.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+5-Jul-2014,2014.0,Provoked,California,"Manhattan Beach, Los Angeles County",Swimming,1,33.8847361,-118.4109089,15,82.15
+5-Jul-2014,2014.0,Unprovoked,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,1,35.106238,-120.6269211,15,78.67
+3-Jul-2014,2014.0,Unprovoked,South Carolina,"Isle of Palms, Charleston County",Body surfing,3,32.8194131,-79.7343791,6,79.74
+09-Jun-2014,2014.0,Unprovoked,Delaware,"Cape Henlopen State Park, Sussex County",Standing,1,38.8031678,-75.0946255,5,69.31
+07-Jun-2014,2014.0,Unprovoked,Texas,"West Beach, Galveston",Kneeling in the water,1,29.2000762,-94.9418083,7,88.25
+01-Jun-2014,2014.0,Unprovoked,Florida,Fort Lauderdale,Swimming,2,26.1224386,-80.1373174,15,79.2
+15-May-2014,2014.0,Unprovoked,Florida,"Juan Ponce de León Landing, Melbourne Beach, Brevard County",Body boarding,1,28.010895,-80.5302978,3,80.73
+13-May2014,2014.0,Unprovoked,Florida,"Jacksonville Beach, Duval County",Wading,6,30.2841224,-81.3961338,15,83.8
+11-May-2014,2014.0,Unprovoked,Georgia,"Tybee Island, Chatham County",Surfing,2,32.0002152,-80.845666,12,83.7
+ 10-May-2014,2014.0,Invalid,Florida,"Bethel Shoals, Indian River County",Diving,1,27.7247513,-80.1797668,0,82.06
+06-May-2014,2014.0,Unprovoked,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,1,32.141562,-80.7510617,15,83.34
+01-May-2014,2014.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+22-Apr-2014,2014.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Swimming,14,28.3200067,-80.6075513,12,80.02
+15-Apr-2014,2014.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Wading,64,29.0258191,-80.9269984,15,81.45
+04-Apr-2014,2014.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+04-Apr-2014,2014.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+22-Mar-2014,2014.0,Unprovoked,Florida,Delray Beach,Kite Surfing,1,26.4614625,-80.0728201,15,78.49
+21-Mar-2014,2014.0,Unprovoked,Florida,Macarthur State Park,Surfing,1,26.8223567,-80.0431002,15,80.13
+02-Mar-2014,2014.0,Unprovoked,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",Surfing,1,27.2073806,-80.1710775,6,81.55
+11-Dec-2013,2013.0,Unprovoked,Hawaii,"Ninole Bay, Hawaii County",Boogie boarding,1,19.9388888,-155.1688889,1,78.73
+10-Dec-2013,2013.0,Unprovoked,Florida,"Cocoa Beach, Brevard  County",Surfing,14,28.3200067,-80.6075513,12,80.02
+02-Dec-2013,2013.0,Unprovoked,Hawaii,"Between  Makena & Molokini, Maui",Kayaking / Fishing,1,20.6544444,-156.4425,10,85.98
+29-Nov2013,2013.0,Unprovoked,Hawaii,"Keawekapu Beach, Kihei, Maui",Snorkeling,1,20.7039159,-156.4463238,15,86.0
+22-Nov-2013,2013.0,Unprovoked,Oregon,"Gleneden Beach, Lincoln County",Surfing,1,44.8814151,-124.034593,8,61.92
+07-Nov-2013,2013.0,Unprovoked,New Jersey,"Bay Head, Ocean County",Body boarding,1,40.0717828,-74.0543036,15,69.8
+07-Nov-2013,2013.0,Unprovoked,Florida,"Floridana Beach, Brevard County",Surfing,2,27.9456312,-80.497996,1,80.94
+31-Oct-2013,2013.0,Unprovoked,Hawaii,"Kanaha Beach, Maui",Kiteboarding,2,20.8996987,-156.4405938,15,86.0
+23-Oct-2013,2013.0,Unprovoked,Hawaii,"Waiehu, Maui",Diving ,1,20.9297229,-156.5045315,15,85.71
+20-Oct-2013,2013.0,Unprovoked,Hawaii,"Pila''a Beach, Kaua''i",Surfing,1,22.2147222,-159.3658333,12,81.93
+19-Oct-2013,2013.0,Unprovoked,Florida,Miami Beach,Wading,1,25.790654,-80.1300455,15,86.68
+06-Oct-2013,2013.0,Unprovoked,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,2,40.7195153,-124.242601,2,63.82
+10-Oct-2013,2013.0,Unprovoked,Florida,"Destin, Okaloosa County",Wading,2,30.3935337,-86.4957833,15,84.29
+29-Sep-2013,2013.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Surfing,12,28.0683496,-80.5603303,11,80.53
+ 25-Sep-2013,2013.0,Unprovoked,Florida,"Panama City, Bay County",Standing,1,30.1588129,-85.6602058,15,83.43
+ 21-Sep-2013,2013.0,Unprovoked,Florida,"Ormond Beach, Volusia County",Swimming,5,29.2858129,-81.0558894,15,81.64
+ 21-Sep-2013,2013.0,Unprovoked,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,1,26.9291055,-80.0691932,15,80.82
+ 14-Sep-2013,2013.0,Unprovoked,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,1,30.332493,-87.142379,12,81.28
+ 12-Sep-2013,2013.0,Unprovoked,Florida,"New Smyrna Beach,  Volusia County",Surfing,3,29.0258191,-80.9269984,15,81.45
+ 07-Sep-2013,2013.0,Provoked,Florida,"New Smyrna Beach,  Volusia County",Surfing,3,29.0258191,-80.9269984,15,81.45
+ 07-Sep-2013,2013.0,Unprovoked,Florida,"New Smyrna Beach,  Volusia County",Standing,3,29.0258191,-80.9269984,15,81.45
+ 02-Sep-2013,2013.0,Unprovoked,Florida,"Ormond Beach, Volusia County",Swimming,5,29.2858129,-81.0558894,15,81.64
+ 01-Sep-2013,2013.0,Unprovoked,Florida,"St Augustine Beach, St Johns County",Casting a net,1,29.8439828,-81.2711546,15,82.72
+31-Aug-2013,2013.0,Unprovoked,California,"Butterfly Beach, Montecito, Santa Barbara County",Swimming,1,34.4176221,-119.6491956,15,83.71
+29-Aug-2013,2013.0,Invalid,California,Catalina Channel,Marathon swimming,1,33.3878856,-118.4163103,0,72.57
+ 25-Aug-2013,2013.0,Unprovoked,Florida,"Winterhaven Park,           Ponce Inlet, Volusia County",Boogie boarding,1,29.1047098,-80.9415953,7,81.61
+ 18-Aug-2013,2013.0,Unprovoked,Hawaii,Pohoiki ,Surfing,1,19.4582356,-154.841916,0,81.61
+17-Aug-2013,2013.0,Unprovoked,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,1,37.5030312,-122.4822904,7,68.45
+ 14-Aug-2013,2013.0,Unprovoked,Hawaii,"Makenat, Maui",Snorkeling,1,20.6544444,-156.4425,10,85.98
+ 13-Aug-2013,2013.0,Unprovoked,Hawaii,"Ka''a Point, Maui",Kiteboarding,1,20.8985743,-156.4473714,15,86.0
+11-Aug-2013,2013.0,Unprovoked,South Carolina,Folly Beach,Surfing,1,32.6551798,-79.9403673,5,80.06
+ 05-Aug-2013,2013.0,Unprovoked,Florida,"Sanibel Island, Lee County",Fishing,1,26.4433972,-82.1115119,5,85.59
+  31-Jul-2013,2013.0,Unprovoked,Hawaii,"Ulua Beach, Maui",Snorkeling,1,20.6903433,-156.4436167,15,85.5
+  30-Jul-2013,2013.0,Unprovoked,South Carolina,"Isle of Palms, Charleston County",Swimming,3,32.8194131,-79.7343791,6,79.74
+  29-Jul-2013,2013.0,Unprovoked,Hawaii,"White Plains Beach, Oahu",Surfing,2,21.3035275,-158.0452282,10,86.79
+19-Jul-2013,2013.0,Unprovoked,Alabama,"Gulf Shores, Baldwin County",Walking in surf,2,30.2460361,-87.7008193,15,81.72
+ 17-Jul-2013,2013.0,Unprovoked,Florida,"Butler Beach, St Augustine,       St. Johns County",Swimming ,1,29.7983039,-81.2670131,7,82.69
+11-Jul-2013,2013.0,Unprovoked,North Carolina,Holden Beach. Brunswick County,Wading,1,33.9139209,-78.2693885,9,75.24
+25-Jun-2013,2013.0,Watercraft,California,"Pacific State , San Mateo County",Kayaking / Fishing,1,37.5349925,-122.3050823,15,71.8
+25-Jun-2013,2013.0,Unprovoked,Florida,"Jacksonville, Duval County",Swimming,2,30.3321838,-81.655651,15,84.11
+25-Jun-2013,2013.0,Unprovoked,South Carolina,"Kiawah Island, Charleston County",Swimming,1,32.6082373,-80.0848166,6,80.29
+18-Jun-2013,2013.0,Unprovoked,Hawaii,Kona Coast State Park,Swimming,1,19.7703831,-156.0217836,1,81.57
+17-Jun-2013,2013.0,Unprovoked,Texas,"Surfside Beach, Brazoria County",Swimming,1,28.9516604,-95.2875474,7,88.11
+15-Jun-2013,2013.0,Unprovoked,Florida,"Atlantic Beach, Duval County",Surfing,1,30.3344077,-81.398696,15,83.89
+ 14-Jun-2013,2013.0,Unprovoked,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,8,33.6890603,-78.8866943,15,73.92
+06-Jun-2013,2013.0,Provoked,Florida,"Off Snipe Point, Florida Keys, Monroe County",Fishing for sharks,1,24.6981975,-81.6739784,0,87.44
+27-May-2013,2013.0,Unprovoked,Hawaii,"Halewia, Oahu",Diving,1,21.5927614,-158.1034112,15,84.22
+27-May-2013,2013.0,Unprovoked,Florida,"Ormond Beach, Volusia County",Swimming,5,29.2858129,-81.0558894,15,81.64
+08-May-2013,2013.0,Invalid,California,"Tourmaline Surf Park, San Diego County",Surfing,1,32.8051352,-117.2622363,15,82.63
+04-May-2013,2013.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Surfing,12,28.0683496,-80.5603303,11,80.53
+17-Apr-2013,2013.0,Unprovoked,Florida,"Near Boynton Beach, Palm Beach County",Playing in the surf,1,26.5317866,-80.0905465,15,78.85
+13-Apr-2013,2013.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+04-Apr-2013,2013.0,Unprovoked,Florida,"Jensen Beach, Martin County ",Swimming,3,27.2544906,-80.2297697,13,81.64
+02-Apr-2013,2013.0,Unprovoked,Hawaii,Ka’anapali Shores,Surfing,1,20.9492838,-156.689195,14,85.73
+21-Feb-2013,2013.0,Unprovoked,Hawaii,"Ka''anapali, Honokowai, Maui",Surfing,1,20.9331214,-156.6831418,15,85.01
+21-Feb-2013,2013.0,Unprovoked,Hawaii,"Paia Bay, Maui",Surfing,2,20.9173855,-156.3836273,8,86.0
+10-Feb-2013,2013.0,Unprovoked,Florida,"Stuart Rocks, Martin County",Surfing,1,27.195588,-80.223662,15,81.36
+16-Jan-2013,2013.0,Unprovoked,Hawaii,Kiholo Bay,Surfing,1,19.8563675,-155.9217446,0,81.68
+31-Dec-2012,2012.0,Unprovoked,Florida,"Jensen Beach, Martin County ",Swimming,3,27.2544906,-80.2297697,13,81.64
+05-Dec-2012,2012.0,Unprovoked,Hawaii,Kauai,Surfing,2,22.0964396,-159.5261238,1,72.72
+30-Nov-2012,2012.0,Unprovoked,Hawaii,"Kihei, Maui",Snorkeling,2,20.7644275,-156.4450063,15,85.73
+19-Nov-2012,2012.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Surfing,12,28.0683496,-80.5603303,11,80.53
+04-Nov-2012,2012.0,Unprovoked,Hawaii,"Makena Landing, Maui",Diving,2,20.653797,-156.4410126,10,85.98
+04-Nov-2012,2012.0,Unprovoked,Hawaii,"Davidson''s Surf Break, Kekaha, Kaua''i",Surfing,1,21.9641667,-159.7088889,12,84.22
+30-Oct-2012,2012.0,Unprovoked,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,1,40.7195153,-124.242601,2,63.82
+27-Oct-2012,2012.0,Unprovoked,Hawaii,"Makena Landing, Maui",Swimming,2,20.653797,-156.4410126,10,85.98
+23-Oct-2012,2012.0,Unprovoked,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,1,34.6831139,-120.6064278,0,75.25
+18-Oct-2012,2012.0,Unprovoked,Florida,"Ponce Inlet, Volusia County",Surfing,10,29.0963729,-80.9369983,5,81.61
+18-Oct-2012,2012.0,Unprovoked,Hawaii,"Kanaha Beach, Maui",Paddle boarding,2,20.8996987,-156.4405938,15,86.0
+10-Oct-2012,2012.0,Unprovoked,California,"Davenport Landing, Santa Cruz County",Windsurfing,1,37.0260309,-122.2159035,0,80.96
+25-Sep-2012,2012.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Surfing,12,28.0683496,-80.5603303,11,80.53
+24-Sep-2012,2012.0,Unprovoked,Florida,"Spanish House Beach, Brevard County",Surfing,1,28.3270936,-80.608363,14,80.01
+16-Sep-2012,2012.0,Unprovoked,Florida," Cocoa Beach, Brevard  County",Surfing,1,28.3200067,-80.6075513,12,80.02
+09-Sep-2012,2012.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+08-Sep-2012,2012.0,Unprovoked,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Surfing,3,28.3371416,-80.609485,15,80.01
+08-Sep-2012,2012.0,Unprovoked,Florida,"South Beach, Miami-Dade County",Swimming,1,25.7826123,-80.1340772,15,85.96
+06-Sep-2012,2012.0,Unprovoked,Florida,"Neptune Beach, Duval County",Surfing,1,30.311908,-81.3964734,15,83.88
+06-Sep-2012,2012.0,Unprovoked,Florida,"St. Augustine Beach, St. John''s County",Surfing,1,29.8439828,-81.2711546,15,82.72
+04-Sep-2012,2012.0,Unprovoked,Florida,"Melbourne Beach, Brevard County",Surfing,12,28.0683496,-80.5603303,11,80.53
+02-Sep-2012,2012.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,64,29.0258191,-80.9269984,15,81.45
+02-Sep-2012,2012.0,Provoked,Hawaii,"Spreckelsville, Maui",Spearfishing,1,20.9107182,-156.4051911,15,85.96
+02-Sep-2012,2012.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Swimming or boogie boarding,64,29.0258191,-80.9269984,15,81.45
+15-Aug-2012,2012.0,Unprovoked,Alabama,"Gulf Shores, Baldwin County",Wading or swimming,2,30.2460361,-87.7008193,15,81.72
+08-Aug-2012,2012.0,Unprovoked,Florida,Key Largo,Free diving ,1,25.1877642,-80.360297,5,87.44
+31-Jul-2012,2012.0,Unprovoked,California,"Topanga Beach, Los Angeles County",Surfing,1,34.0919452,-118.6021321,0,85.12
+30-Jul-2012,2012.0,Unprovoked,Hawaii,"Maha‘ulepu Beach, Kauai",Surfing,1,21.8924999,-159.4169444,15,82.76
+30-Jul-2012,2012.0,Unprovoked,Massachusetts,"Ballston Beach, Truro, Cape Cod",Body surfing,1,42.0006591,-70.020301,4,69.06
+08-Jul-2012,2012.0,Unprovoked,North Carolina,"North Topsail Beach, Onslow County",Swimming,2,34.4901665,-77.43163,3,75.54
+07-Jul-2012,2012.0,Watercraft,California,"Pleasure Point, Santa Cruz County",Kayaking,2,36.9635135,-121.9648975,15,79.05
+26-Jun-2012,2012.0,Unprovoked,Florida,"Juno Beach, Palm Beach County",Swimming,4,26.8797819,-80.0533743,14,80.37
+26-Jun-2012,2012.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+26-Jun-2012,2012.0,Unprovoked,Hawaii,"Kahana Beach, Maui",Sitting in the water,1,20.9766667,-156.6825,14,85.82
+22-Jun-2012,2012.0,Unprovoked,Florida,"Bathtub Reef  Beach, Stuart, Martin County",Swimming,1,27.186242,-80.16036,7,81.52
+19-Jun-2012,2012.0,Invalid,South Carolina,"Myrtle Beach, Horry County",Standing,8,33.6890603,-78.8866943,15,73.92
+18-Jun-2012,2012.0,Unprovoked,North Carolina,"Ocean Isle, Brunswick County",Wading,4,33.8877282,-78.4364471,13,75.0
+15-Jun-2012,2012.0,Provoked,Florida,"Summerland Key, Monroe County",Fishing,1,24.6613356,-81.4448502,11,86.52
+14-Jun-2012,2012.0,Unprovoked,South Carolina,"Myrtle Beach, Horry County",Swimming,8,33.6890603,-78.8866943,15,73.92
+14-Jun-2012,2012.0,Unprovoked,South Carolina,"Myrtle Beach, Horry County",Swimming,8,33.6890603,-78.8866943,15,73.92
+14-Jun-2012,2012.0,Unprovoked,South Carolina,"Myrtle Beach, Horry County",Swimming,8,33.6890603,-78.8866943,15,73.92
+14-Jun-2012,2012.0,Unprovoked,South Carolina,"Myrtle Beach, Horry County",Swimming,8,33.6890603,-78.8866943,15,73.92
+02-Jun-2012,2012.0,Unprovoked,Florida,"Bethune Beach, Volusia County",Surfing,4,28.9491539,-80.83783,4,81.09
+02-Jun-2012,2012.0,Unprovoked,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,8,33.6890603,-78.8866943,15,73.92
+31-May-2012,2012.0,Unprovoked,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Wading,2,35.3521855,-75.5108445,15,75.07
+23-May-2012,2012.0,Unprovoked,Florida,"Jacksonville, Duval County",Surfing,2,30.3321838,-81.655651,15,84.11
+20-May-2012,2012.0,Watercraft,Hawaii,"Iroquiois Point, Oahu",Kayak Fishing,1,21.3275,-157.9802778,15,85.89
+12-May-2012,2012.0,Watercraft,California,"Leffingwell Landing, Cambria,  San Luis Obispo County",Kayaking / Fishing,1,35.5838504,-121.1214197,15,88.84
+09-May-2012,2012.0,Unprovoked,Florida,"Vero Beach, Indian River County",Swimming,3,27.6386434,-80.3972736,15,82.04
+06-May-2012,2012.0,Unprovoked,California,Off Catalina Island,Paddle boarding,1,33.3878856,-118.4163103,0,72.57
+19-Apr-2012,2012.0,Unprovoked,Florida,"Indialantic, Brevard County",Surfing,2,28.0894599,-80.5656079,12,80.47
+03-Apr-2012,2012.0,Unprovoked,Hawaii,"Leftovers near Chun''s Reef, Oahu",Surfing,1,21.6269444,-158.0838889,15,83.46
+24-Mar-2012,2012.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+15-Mar-2012,2012.0,Unprovoked,Florida,"Jensen Beach, Martin County ",Surfing,3,27.2544906,-80.2297697,13,81.64
+14-Mar-2012,2012.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+14-Mar-2012,2012.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+04-Mar-2012,2012.0,Unprovoked,Florida,"Playalinda Beach, Brevard County",Kite Surfing,4,28.6555177,-80.6318287,0,79.77
+26-Feb-2012,2012.0,Provoked,Florida,"Palm Beach Inlet, Palm Beach County",Kite Surfing,1,26.772285,-80.037263,12,79.84
+27-Jan-2012,2012.0,Unprovoked,Hawaii,Lanai,Snorkeling,1,20.8165975,-156.9273193,6,79.92
+13-Jan-2012,2012.0,Unprovoked,Oregon,"Lincoln City, Lincoln County",Surfing,1,44.9581644,-124.0178914,15,62.6
+23-Dec-2011,2011.0,Unprovoked,Florida,New Smyrna Beach,Surfing,4,29.0258191,-80.9269984,15,81.45
+21-Dec-2011,2011.0,Provoked,Hawaii,"Makahuena Point, Kauai",Canoeing,1,21.8717452,-159.4463529,15,82.65
+06-Dec-2011,2011.0,Unprovoked,Oregon,Seaside Cove,Surfing,1,45.9748988,-123.9424796,15,62.19
+22-Nov-2011,2011.0,Watercraft,California,Pigeon Point,Kayaking,1,37.1864492,-122.3832545,0,78.89
+  29-Oct-2011,2011.0,Unprovoked,California,"Marina State Beach, Monterey County",Surfing,1,36.6963431,-121.8090743,6,68.23
+20-Oct-2011,2011.0,Unprovoked,Oregon,"Newport, Lincoln County",Surfing,1,44.6367836,-124.0534505,15,60.53
+11-Oct-2011,2011.0,Unprovoked,Florida,Cape Canaveral,Surfing,1,28.4740089,-80.5771737,0,79.68
+10-Oct-2011,2011.0,Unprovoked,Oregon,Seaside,Surfing,1,30.3216504,-86.1429286,14,83.53
+02-Oct-2011,2011.0,Unprovoked,Florida,"Santa Maria Island, Manatee County",Wade fishing,2,27.5041264,-82.7144811,10,81.3
+30-Sep-2011,2011.0,Invalid,Puerto Rico,Hatillo Beach,Surfing,1,18.4919313,-66.7934203,14,79.02
+24-Sep-2011,2011.0,Unprovoked,Florida,"Santa Maria Island, Manatee County",Spearfishing,2,27.5041264,-82.7144811,10,81.3
+24-Sep-2011,2011.0,Unprovoked,South Carolina,"North Myrtle Beach, Horry County",Jumping in the waves,3,33.8160058,-78.680016,15,74.28
+20-Sep-2011,2011.0,Watercraft,Hawaii,Kauai,Canoeing,2,22.0964396,-159.5261238,1,72.72
+16-Sep-2011,2011.0,Unprovoked,Florida,New Smyrna Beach,Surfing,4,29.0258191,-80.9269984,15,81.45
+11-Sep-2011,2011.0,Unprovoked,California,"Samoa Beach, Humboldt County",Surfing,1,40.8062813,-124.1991726,15,62.11
+04-Sep-2011,2011.0,Unprovoked,Hawaii,"Nimitz State Beach, Oahu",Surfing,1,21.299765,-158.0666611,15,86.59
+02-Sep-2011,2011.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+31-Aug-2011,2011.0,Unprovoked,Florida,Crescent Beach St. Johns County,Surfing,2,29.76886,-81.2536786,2,82.47
+28-Aug-2011,2011.0,Unprovoked,Texas,"Grass Island, Aransas County",Wade Fishing,1,28.0514053,-97.1538796,1,90.59
+24-Aug-2011 ,2011.0,Unprovoked,North Carolina,"Buxton Beach, Dare County",Surfing,1,35.2688839,-75.5394136,12,74.71
+17-Aug-2011,2011.0,Unprovoked,North Carolina,"Kure Beach, New Hanover County",Wading,1,33.9968399,-77.9072081,15,75.31
+16-Aug--2011,2011.0,Unprovoked,Puerto Rico, Vieques,Floating ,1,18.1262854,-65.4400985,15,81.37
+15-Aug-2011,2011.0,Invalid,South Carolina,"Myrtle Beach, Horry County",Playing in the surf,8,33.6890603,-78.8866943,15,73.92
+11-Aug--2011,2011.0,Unprovoked,North Carolina,Beaufort Inlet,Swimming,1,34.6937732,-76.6663185,15,75.04
+25-Jul-2011,2011.0,Unprovoked,New Jersey,"Egg Harbor, Atlantic County",Wade Fishing,1,39.3822537,-74.6166192,3,69.33
+19-Jul-2011,2011.0,Unprovoked,North Carolina,"Ocracoke Island, Hyde County",Boogie Boarding,1,35.1146152,-75.9810097,11,74.89
+13-Jul-2011,2011.0,Unprovoked,Texas,"South Padre Island, Cameron County",Surf fishing,2,26.1118401,-97.1681257,15,88.93
+07-Jul-2011,2011.0,Unprovoked,Texas,"Sunday Beach, Matagorda Island, Calhoun  County",Swimming,1,28.3593479,-96.3997361,0,90.5
+07-Jul-2011,2011.0,Unprovoked,Texas,"Mustang Island, Nueces County",Wade Fishing,1,27.7103944,-97.1628647,0,90.39
+26-Jun-2008,2011.0,Unprovoked,North Carolina,"North Topsail Beach, Onslow County",Playing in the surf,2,34.4901665,-77.43163,3,75.54
+24-Jun-2011,2011.0,Unprovoked,California,"San Onofre State Beach, San Diego County",Surfing,1,33.3728077,-117.5656012,10,82.94
+21-Jun-2011,2011.0,Unprovoked,Florida,"Perdido Key, Escambia County",Jet skiing,1,30.3035037,-87.4273172,6,81.37
+12-Jun-2011,2011.0,Unprovoked,Florida,"Off Jupiter Inlet, Palm Beach County",Scuba diving,1,26.9478705,-80.0744458,15,80.91
+06-Jun-2011,2011.0,Unprovoked,California,"La Jolla, San Diego County",Spearfishing,2,32.8328112,-117.2712717,15,82.15
+06-Jun-2011,2011.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Wading,64,29.0258191,-80.9269984,15,81.45
+30-May-2011,2011.0,Unprovoked,Texas,"Follett''s Island, Brazoria County",Standing or boogie boardin,1,29.0424663,-95.1696535,0,88.18
+25-May-2011,2011.0,Unprovoked,Hawaii,"Lyman Beach, Kailua-Kona",Surfing,2,19.603239,-155.9742889,15,83.25
+22-May-2011,2011.0,Unprovoked,Hawaii,"Lyman Beach, Kailua-Kona",Paddle boarding,2,19.603239,-155.9742889,15,83.25
+13-May-2011,2011.0,Unprovoked,Florida,"Ponte Vedra Beach, St Johns County",Body surfing,2,30.2400058,-81.3852595,10,83.75
+13-May-2011,2011.0,Unprovoked,Florida,"Ormond Beach, Volusia County",Surfing,5,29.2858129,-81.0558894,15,81.64
+10-May-2011,2011.0,Provoked,Florida,Miami,Fishing ,1,25.7616798,-80.1917902,15,86.92
+26-Apr-2011,2011.0,Unprovoked,Florida,"Riviera Beach, Palm Beach County",Spearfishing,1,26.7753405,-80.0580969,10,78.82
+22-Apr-2011,2011.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing ,64,29.0258191,-80.9269984,15,81.45
+ 29-Mar-2011,2011.0,Provoked,Texas,Matagorda Beach,"Standing, holding shark pup",1,28.5973417,-95.9772678,0,89.47
+26-Dec-2010,2010.0,Unprovoked,Hawaii," Kahului, Maui",Body boarding,1,20.8893351,-156.4729469,15,85.95
+11-Dec-2010,2010.0,Unprovoked,Hawaii,"Tavares Bay, Maui",Surfing,1,20.9217152,-156.3738379,10,85.86
+28-Oct-2010,2010.0,Unprovoked,Oregon,Florence,Surfing,1,43.7695604,11.2558136,15,65.37
+23-Oct-2010,2010.0,Unprovoked,Maine,"Burnt Cove near Eastport, Washington County",Scuba diving,1,44.8375672,-67.1558211,2,64.69
+22-Oct-2010,2010.0,Unprovoked,California,"Surf Beach, Vandenberg AFB, Santa Barbara County",Body boarding,1,34.6831139,-120.6064278,0,75.25
+27-Sep-2010,2010.0,Unprovoked,Oregon,Winchester Bay,Surfing,1,43.6770608,-124.1748369,15,64.15
+24-Sep-2010,2010.0,Unprovoked,Virginia,Sandridge Beach,Surfing,1,36.7239073,-75.9390662,3,69.71
+07-Sep-2010,2010.0,Unprovoked,Florida,"St. Augustine, St. John''s County",Swimming,1,29.9012437,-81.3124341,15,82.94
+ 04-Sep-2010,2010.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+03-Sep-2010,2010.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+03-Sep-2010,2010.0,Unprovoked,Florida,"New Smyrna Beach, Volusia County",Surfing,64,29.0258191,-80.9269984,15,81.45
+18-Aug-2010,2010.0,Unprovoked,Florida,Crescent Beach St. Johns County,Boogie Boarding,2,29.76886,-81.2536786,2,82.47
+14-Aug-2010,2010.0,Watercraft,California,"Pigeon Point, San Mateo County",Kayak Fishing,1,37.1864492,-122.3832545,0,78.89
+07-Aug-2010,2010.0,Unprovoked,North Carolina,"Figure Eight Island, Wilmington, New Hanover County",Surfing,1,34.2693745,-77.7444928,3,75.36
+05-Aug-2010,2010.0,Invalid,Florida,"Bethune Beach, Volusia County",Swimming,4,28.9491539,-80.83783,4,81.09
+02-Aug-2010,2010.0,Watercraft,California,"Near oil rig Hondo, 5 nm from Gaviota, Santa Barbara County",Kayaking,1,34.4716558,-120.2148716,0,85.6
+02-Aug-2010,2010.0,Unprovoked,Florida,"Micklers Landing, St. Johns County",Standing,1,30.1615592,-81.3573744,7,83.61
+25-Jul-2010,2010.0,Unprovoked,South Carolina,"Isle of Palms, Charleston County",Standing,3,32.8194131,-79.7343791,6,79.74
+23-Jul-2010,2010.0,Unprovoked,Florida,"Jacksonville Beach, Duval County",Surfing,6,30.2841224,-81.3961338,15,83.8
+19-Jul-2010,2010.0,Unprovoked,South Carolina,Myrtle Beach,Swimming,2,33.6890603,-78.8866943,15,73.92
+17-Jul-2010,2010.0,Unprovoked,North Carolina,"Wrightsville Beach, New Hanover County",Swimming,1,34.2085036,-77.7963709,14,75.29
+17-Jul-2010,2010.0,Unprovoked,Florida,New Smyrna Beach,Surfing,4,29.0258191,-80.9269984,15,81.45
+16-Jul-2010,2010.0,Unprovoked,Texas,Galveston,Fishing,3,29.3013479,-94.7976958,15,88.27
+11-Jul-2010,2010.0,Provoked,Florida,"Lauderdale-by-the-Sea, Broward County",Fishing,1,26.192028,-80.0964326,15,78.62
+03-Jul-2010,2010.0,Provoked,New York,Off Long Island,Fishing,1,40.789142,-73.134961,15,68.92
+02-Jul-2010,2010.0,Unprovoked,California,"Pismo Beach, San Luis  Obispo County",Surfing,1,35.1427533,-120.6412827,15,79.07
+02-Jul-2010,2010.0,Unprovoked,California,"Dog Patch, San Onofre",Stand-Up Paddleboarding,1,33.3762299,-117.5692721,10,82.78
+27-Jun-2010,2010.0,Unprovoked,Texas,"Eight Mile Beach, Galveston",Surfing,1,29.2532932,-94.8928908,7,88.3
+25-Jun-2010,2010.0,Unprovoked,South Carolina,Fripp Island,Boogie Boarding,1,32.317001,-80.4966062,2,82.78
+25-Jun-2010,2010.0,Unprovoked,North Carolina,"Topsail Island, Pender County",Swimming,1,34.3651685,-77.6305293,10,75.27
+10-Jun-2010,2010.0,Unprovoked,Florida,Jacksonville,Boogie Boarding,1,30.3321838,-81.655651,15,84.11
+Jun-2010,2010.0,Unprovoked,Florida,"Ponte Vedra Beach, St Johns County",Surfing,2,30.2400058,-81.3852595,10,83.75
+30-May-2010,2010.0,Provoked,Florida,Off Tarpon Springs,Fishing,1,28.1461248,-82.7567679,12,80.94
+01-May-2010,2010.0,Unprovoked,Florida,New Smyrna Beach,Wading,4,29.0258191,-80.9269984,15,81.45
+28-Apr-2010,2010.0,Provoked,Florida,Hanalei Bay,Measuring sharks,1,22.2090776,-159.5067583,15,81.07
+19-Apr-2010,2010.0,Unprovoked,Hawaii,"Hanalei Bay, Kauai",Surfing,3,22.2090776,-159.5067583,15,81.07
+06-Feb-2010,2010.0,Provoked,Florida,Riviera Beach,Surf fishing / wading,1,26.7753405,-80.0580969,10,78.82
+03-Feb-2010,2010.0,Unprovoked,Florida,"Stuart, Martin County",Kite Boarding,1,27.197548,-80.2528257,15,81.61
+06-Jan-2010,2010.0,Unprovoked,Florida,Elliot Key,Spearfishing,1,25.4396585,-80.2000596,0,87.46
