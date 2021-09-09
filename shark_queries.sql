@@ -25,3 +25,16 @@ group by attack_state
 
 --Showing occurence table
 select * from occurence_table
+
+--Dropping ice_cream table if it already exists
+DROP TABLE ice_cream
+
+CREATE TABLE ice_cream (
+	attack_location varchar(100),
+	number_of_attacks int,
+	latitude decimal,
+	longitude decimal,
+	ice_cream int
+)
+
+select * from ice_cream
