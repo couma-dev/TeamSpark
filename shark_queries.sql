@@ -38,3 +38,10 @@ CREATE TABLE ice_cream (
 )
 
 select * from ice_cream
+
+create table ice_cream_shark_attack
+as  
+SELECT shark_attacks.attack_date, shark_attacks.attack_year, shark_attacks.attack_type, shark_attacks.attack_state, shark_attacks.attack_location, shark_attacks.activity, ice_cream.number_of_attacks, ice_cream.latitude, ice_cream.longitude, ice_cream.ice_cream
+FROM shark_attacks
+LEFT JOIN ice_cream ON
+shark_attacks.attack_location = ice_cream.attack_location;
