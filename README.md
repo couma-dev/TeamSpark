@@ -6,7 +6,8 @@ Contributors: Maurice Jenkins, Megan Williams, Collin Seebeck, Clifford Ouma
 
 
 
-Statement: For Project 2 our team has decided to perform ETL on three datasets. One dataset being shark attack csv data collected internationally, starting from the year 1950. Our second dataset was data received through google api calls, that specified and requested the nearest icecream shops located with a mile of shark attack coordinates. The third dataset was data recived through open weather api call for the current data only.  We performed ETL through pandas, and loaded our tables after filtering and cleaning into a relational database (PostgreSql) to display our final tables and queries. 
+Statement: For Project 2 our team has decided to perform ETL on three datasets. One dataset being shark attack data collected internationally, starting from the year 1950 to the present. Our second dataset was data received through Google Places Api, that specified and requested information on the nearest ice cream shops located within a mile of shark attack coordinates. The third dataset was data received through Open Weather Api for current data only on weather conditions. We performed ETL through Python and Pandas, then loaded our tables after filtering and cleaning into a relational database (PostgreSQL) to display our final tables and queries.
+ 
 
 Sources: Shark Attack CSV (sharkattackfile.net), Google Api (googleapis.com/maps) and Open Weather Api (openweathermap.org/api)
 
