@@ -1,5 +1,7 @@
 # TeamSpark
+
 Contributors: Maurice Jenkins, Megan Williams, Collin Seebeck, Clifford Ouma
+
 ![The-Shark-Chronicles-Part-I-Catching-Up-with-a-Shark-Attack-Victim-5-Years-Later-ocean-ramsey-great-white-shark](https://user-images.githubusercontent.com/85527359/132774671-e9d19a81-8352-4cd6-af68-f24da179c35c.jpg)
 
 
